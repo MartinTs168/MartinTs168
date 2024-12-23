@@ -46,11 +46,7 @@
 
 ### :fire: Github Stats:
 
-<div>
-    <div width="60%">
-        <img max-width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user={MartinTs168}&theme={tokyonight}" />
-    </div>
-    <div width="60%">
-        <img max-width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username={MartinTs168}&theme={tokyonight}" />
-    </div>
-</div>
+<p align="left">
+    <img max-width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user={MartinTs168}&theme=vision-friendly-dark" />
+    <img max-width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinTs168&layout=compact&theme=vision-friendly-dark" />
+</p>
