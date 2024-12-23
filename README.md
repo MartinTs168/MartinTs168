@@ -41,3 +41,16 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" height="40" width="40" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" height="40" width="40" />&nbsp;
 </div>
+
+---
+
+### :fire: Github Stats:
+
+<div>
+    <div width="60%">
+        <img max-width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user={MartinTs168}&theme={tokyonight}" />
+    </div>
+    <div width="60%">
+        <img max-width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username={MartinTs168}&theme={tokyonight}" />
+    </div>
+</div>
