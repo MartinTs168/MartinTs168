@@ -47,6 +47,6 @@
 ### :fire: Github Stats:
 
 <p align="left">
-    <img max-width="100%" height="160px" style="border: 0;" src="https://github-readme-streak-stats.herokuapp.com/?user={MartinTs168}&theme=dark" />
-    <img max-width="100%" height="160px" style="border: 0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinTs168&layout=compact&theme=dark" />
+    <img max-width="100%" height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user={MartinTs168}&theme=dark&hide_border=true" />
+    <img max-width="100%" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinTs168&layout=compact&theme=dark&hide_border=true" />
 </p>
