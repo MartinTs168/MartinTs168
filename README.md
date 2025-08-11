@@ -6,11 +6,10 @@
 
 <img src="https://imgur.com/x31Nhga.gif" width="20%" align="right">
 
--   :open_book: Studying Software Development at High School of Mathematics and Natural Sciences "Hristo Smirnenski"
+-   :open_book: Studying Informatics at "Sofia University St. Kliment Ohridski"
 -   :computer: Studying Python Web Development at Software University (SoftUni)
--   :seedling: Currently Learning: APS.Net Core
+-   :seedling: Currently Learning: APS.Net Core and Django
 -   :hourglass_flowing_sand: I like reading books :books:, videogames :video_game:, maths :triangular_ruler:, history :scroll:, and Fomula 1 :racing_car:
--   :zap: Fun Fact: If I hadn't chosen programming I would have gone into chemistry :scientist:
 
 ---
 
